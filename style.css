@@ -1,0 +1,31 @@
+.f1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.f2{
+    font-size: small;
+}
+
+.f3{
+    font-style: italic;
+}
+
+.f4{
+    font-weight: bolder;
+}
+
+.f5{
+    color: beige;
+}
+
+.f6{
+    text-align: right;
+}
+
+.f7{
+    text-decoration: wavy;
+}
+
+.f8{
+    text-transform: uppercase;
+}
